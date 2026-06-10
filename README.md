@@ -1,17 +1,55 @@
-# device_monitor
+# 🔥 ThermIQ
 
-A new Flutter project.
+> Modern device health dashboard built with Flutter.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Web-orange)
+![UI](https://img.shields.io/badge/UI-Material%203-success)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## About
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+ThermIQ is a modern, responsive device health dashboard built with Flutter and Material 3.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project started as a personal challenge.
+
+* 🚀 Started: **3:00 AM**
+* ✅ Finished: **5:00 AM**
+* 📅 Date: **10 June 2026**
+
+I installed Flutter for the first time and challenged myself to design, architect and ship a complete application before sunrise.
+
+---
+
+## Features
+
+* 🔥 Animated Health Index
+* ⚡ Performance Dashboard
+* 💻 Platform Detection
+* 📱 Screen Information
+* 🎨 Material 3 Design
+* 🌙 Responsive Dark Theme
+* 🌐 Flutter Web
+
+---
+
+## Tech Stack
+
+* Flutter
+* Dart
+* Material 3
+
+---
+
+## Future Roadmap
+
+* Real battery metrics
+* Device information API
+* Charts & analytics
+* PWA support
+* Native Android & iOS
+
+---
+
+Built with ❤️ by T.
